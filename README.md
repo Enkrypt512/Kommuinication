@@ -5,4 +5,4 @@ Firstly,you need Python 3+ Installed on your system,then download the files and 
 # Limitations
 - The server is only hosted in your local network
 - Anybody can impersonate anybody by just changing their username
-- Kommuinications is a Group chat/server based chat,so there isnt any DM's like in discord
+- Kommuinications is a Group chat/server based chat,so there isnt any DM's like in Discord
